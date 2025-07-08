@@ -16,3 +16,5 @@ compiler design program that performs lexical analysis is like teaching a comput
 To build a lexical analyzer, we typically write a program in C or C++ that reads the input code character by character. It groups letters into words, checks whether those words match any known keywords like if, while, int, or return, and classifies them accordingly.
 
 The program also checks for operators like +, -, *, /, ==, etc., and categorizes them. In this way, each part of the input code is tagged with its role in the language. In real-world applications, lexical analyzers are used not just in compilers, but in syntax highlighters, interpreters, search engines, and even chatbots that need to parse human-like text. By writing such a program, we simulate how humans read and comprehend sentences — filtering, recognizing, and categorizing language parts.
+***************output*********
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/150b43bf-c1a4-4e9b-af37-249074e09c44" />
